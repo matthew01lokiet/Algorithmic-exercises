@@ -3,8 +3,8 @@
 Algorithmic and Data Structure exercises solutions implemented in a `Java` programming language by myself.
 ## 📁 Repository structure:
 - Exercise category:
-  - Exercise:
-    - `Solution.java` - code implementation
+  - Exercise title:
+    - `Solution.java` - code implementation (file might be named differently if there is an explicit need)
     - `README.md` - exercise description
 ## ℹ️ Sources:
 - <a target="_blank" href="https://leetcode.com/">Leetcode</a>
