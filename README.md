@@ -4,8 +4,8 @@
 ## 📁 Repository structure:
 - Exercise category:
   - Exercise title:
-    - `Solution.java` - code implementation (file might be named differently if there is an explicit need)
-    - `README.md` - exercise description
+    - `Solution.java` - code implementation (file might be named differently if there is an explicit need).
+    - `README.md` - exercise description.
 ## ℹ️ Sources:
 - <a target="_blank" href="https://leetcode.com/">Leetcode</a>
 - <a target="_blank" href="https://www.hackerrank.com/">Hackerrank</a>
