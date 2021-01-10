@@ -1,25 +1,6 @@
 <h1 align="center">HackerRank in a String!</h1>
 
-## Description:
-We say that a string contains the word hackerrank if a subsequence of its characters spell the word hackerrank. Remeber that a subsequence maintains the order of characters selected from a sequence. 
-
-## Examples:
-
-Sample Input 0
-
-```
-2
-hereiamstackerrank
-hackerworld
-```
-
-Sample Output 0
-
-```
-YES
-NO
-```
-
+![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/hackerrank_in_a_string.png?raw=true)
 
 
 ### Link to source: 
