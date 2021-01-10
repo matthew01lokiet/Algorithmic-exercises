@@ -1,53 +1,6 @@
 <h1 align="center">Convert Integer to the Sum of Two No-Zero Integers</h1>
 
-## Description:
-Given an integer n. No-Zero integer is a positive integer which doesn't contain any 0 in its decimal representation.
-
-Return a list of two integers [A, B] where:
-
-    A and B are No-Zero integers.
-    A + B = n
-
-It's guarateed that there is at least one valid solution. If there are many valid solutions you can return any of them.
-
-## Examples:
-
-Example 1:
-
-```
-Input: n = 2
-Output: [1,1]
-Explanation: A = 1, B = 1. A + B = n and both A and B don't contain any 0 in their decimal representation.
-```
-
-Example 2:
-
-```
-Input: n = 11
-Output: [2,9]
-```
-
-Example 3:
-
-```
-Input: n = 10000
-Output: [1,9999]
-```
-
-Example 4:
-
-```
-Input: n = 69
-Output: [1,68]
-```
-
-Example 5:
-
-```
-Input: n = 1010
-Output: [11,999]
-```
-
+![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Maths/convert_integer_to_the_sum_of_two_no_zero_integers.png?raw=true)
 
 ### Link to source: 
 - <a href="https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/">Leetcode - Convert Integer to the Sum of Two No-Zero Integers</a>
