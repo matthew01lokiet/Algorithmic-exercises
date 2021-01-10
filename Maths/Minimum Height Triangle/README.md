@@ -1,22 +1,6 @@
 <h1 align="center">Minimum Height Triangle</h1>
 
-## Description:
-Given integers b and a, find the smallest integer h, such that there exists a triangle of height h, base b, having an area of at least a.
-
-## Examples:
-
-Sample Input 0
-
-```
-2 2
-```
-
-Sample Output 0
-
-```
-2
-```
-
+![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Maths/minimum_height_triangle.png?raw=true)
 
 
 ### Link to source: 
