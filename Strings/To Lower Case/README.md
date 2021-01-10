@@ -1,30 +1,6 @@
 <h1 align="center">To Lower Case</h1>
 
-## Description:
-Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
-
-## Examples:
-
-Example 1:
-
-```
-	Input: "Hello"
-	Output: "hello"
-```
-
-Example 2:
-
-```
-	Input: "here"
-	Output: "here"
-```
-
-Example 3:
-
-```
-	Input: "LOVELY"
-	Output: "lovely"
-```
+![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/to_lower_case.png?raw=true)
 
 
 ### Link to source: 

@@ -1,26 +1,6 @@
 <h1 align="center">Count Odd Numbers in an Interval Range</h1>
 
-## Description:
-Given two non-negative integers low and high. Return the count of odd numbers between low and high (inclusive).
-
-## Examples:
-
-Example 1:
-
-```
-Input: low = 3, high = 7
-Output: 3
-Explanation: The odd numbers between 3 and 7 are [3,5,7].
-```
-
-Example 2:
-
-```
-Input: low = 8, high = 10
-Output: 1
-Explanation: The odd numbers between 8 and 10 are [9].
-```
-
+![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Maths/count_odd_numbers_in_an_interval_range.png?raw=true)
 
 ### Link to source: 
 - <a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">Leetcode - Count Odd Numbers in an Interval Range</a>

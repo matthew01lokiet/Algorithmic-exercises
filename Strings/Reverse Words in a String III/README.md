@@ -1,16 +1,6 @@
 <h1 align="center">Reverse Words in a String III</h1>
 
-## Description:
-Given a string, you need to reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
-
-## Examples:
-
-Example 1:
-
-```
-Input: "Let's take LeetCode contest"
-Output: "s'teL ekat edoCteeL tsetnoc"
-```
+![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/reverse_words_in_a_string_III.png?raw=true)
 
 
 ### Link to source: 
