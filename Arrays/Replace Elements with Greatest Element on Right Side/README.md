@@ -1,19 +1,6 @@
 <h1 align="center">Replace Elements with Greatest Element on Right Side</h1>
 
-## Description:
-Given an array arr, replace every element in that array with the greatest element among the elements to its right, and replace the last element with -1.
-
-After doing so, return the array.
-
-## Examples:
-
-Example 1:
-
-```
-Input: arr = [17,18,5,4,6,1]
-Output: [18,6,6,6,1,-1]
-```
-
+![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/replace_elements_with_greatest_element_on_right_side.png?raw=true)
 
 ### Link to source: 
 - <a href="https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/">Leetcode - Replace Elements with Greatest Element on Right Side</a>
