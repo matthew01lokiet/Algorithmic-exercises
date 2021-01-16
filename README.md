@@ -1,4 +1,4 @@
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/header_algo.png?raw=true "Header")
+![alt text](https://images2.imgbox.com/3c/e1/UQEuN9AO_o.png?raw=true "Header")
 ## 📖 Short description:
 `Algorithms` and `Data Structure` exercises solutions implemented in a `Java` programming language by myself.
 ## 📁 Repository structure:
