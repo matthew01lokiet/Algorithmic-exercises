@@ -1,6 +1,6 @@
 <h1 align="center">Gemstones</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/gemstones.png?raw=true)
+![alt text](https://images2.imgbox.com/a0/b6/fvNqL6FJ_o.png?raw=true)
 
 
 ### Link to source: 
