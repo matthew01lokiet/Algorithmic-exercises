@@ -1,6 +1,6 @@
 <h1 align="center">Maximum Nesting Depth of the Parentheses</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/maximum_nesting_depth_of_the_parentheses.png?raw=true)
+![alt text](https://images2.imgbox.com/11/15/gxmc3Y0I_o.png?raw=true)
 
 
 ### Link to source: 
