@@ -1,6 +1,6 @@
 <h1 align="center">Beautiful Binary String</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/beautiful_binary_string.png?raw=true)
+![alt text](https://images2.imgbox.com/db/48/D9cwJfUh_o.png?raw=true)
 
 
 ### Link to source: 
