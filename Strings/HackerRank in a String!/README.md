@@ -1,6 +1,6 @@
 <h1 align="center">HackerRank in a String!</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/hackerrank_in_a_string.png?raw=true)
+![alt text](https://images2.imgbox.com/23/25/YgsS6z4F_o.png?raw=true)
 
 
 ### Link to source: 
