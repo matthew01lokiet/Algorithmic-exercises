@@ -1,6 +1,6 @@
 <h1 align="center">String Matching in an Array</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/string_matching_in_an_array.png?raw=true)
+![alt text](https://images2.imgbox.com/b1/ab/tG8ZboKi_o.png?raw=true)
 
 
 ### Link to source: 
