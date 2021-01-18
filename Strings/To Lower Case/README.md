@@ -1,6 +1,6 @@
 <h1 align="center">To Lower Case</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/to_lower_case.png?raw=true)
+![alt text](https://images2.imgbox.com/63/f5/ECZDwElR_o.png?raw=true)
 
 
 ### Link to source: 
