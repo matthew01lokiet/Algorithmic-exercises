@@ -1,6 +1,6 @@
 <h1 align="center">Mars Exploration</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/mars_exploration.png?raw=true)
+![alt text](https://images2.imgbox.com/9d/54/CeH5HeU9_o.png?raw=true)
 
 
 
