@@ -1,6 +1,6 @@
 <h1 align="center">Count the Number of Consistent Strings</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/count_the_number_of_consistent_strings.png?raw=true)
+![alt text](https://images2.imgbox.com/ec/79/qbR5Sagx_o.png?raw=true)
 
 
 ### Link to source: 
