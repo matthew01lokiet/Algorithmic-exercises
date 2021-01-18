@@ -1,6 +1,6 @@
 <h1 align="center">Strong Password</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/strong_password.png?raw=true)
+![alt text](https://images2.imgbox.com/09/ec/09jMcHMw_o.png?raw=true)
 
 
 ### Link to source: 
