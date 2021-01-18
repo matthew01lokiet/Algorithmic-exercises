@@ -1,6 +1,6 @@
 <h1 align="center">Consecutive Characters</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/consecutive_characters.png?raw=true)
+![alt text](https://images2.imgbox.com/7f/ea/z9kEs6GC_o.png?raw=true)
 
 
 ### Link to source: 
