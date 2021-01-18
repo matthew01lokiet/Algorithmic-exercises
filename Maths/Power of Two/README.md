@@ -1,6 +1,6 @@
 <h1 align="center">Power of Two</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Maths/power_of_two.png?raw=true)
+![alt text](https://images2.imgbox.com/04/14/z69kliq4_o.png?raw=true)
 
 ### Link to source: 
 - <a href="https://leetcode.com/problems/power-of-two/">Leetcode - Power of Two</a>
