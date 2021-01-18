@@ -1,6 +1,6 @@
 <h1 align="center">Minimum Height Triangle</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Maths/minimum_height_triangle.png?raw=true)
+![alt text](https://images2.imgbox.com/47/2b/v3pxDN55_o.png?raw=true)
 
 
 ### Link to source: 
