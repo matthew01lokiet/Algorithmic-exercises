@@ -1,6 +1,6 @@
 <h1 align="center">Robot Return to Origin</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/robot_return_to_origin.png?raw=true)
+![alt text](https://images2.imgbox.com/a5/69/neOlrUG2_o.png?raw=true)
 
 
 ### Link to source: 
