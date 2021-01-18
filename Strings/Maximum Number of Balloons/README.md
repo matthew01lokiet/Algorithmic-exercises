@@ -1,6 +1,6 @@
 <h1 align="center">Maximum Number of Balloons</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/maximum_number_of_balloons.png?raw=true)
+![alt text](https://images2.imgbox.com/d4/59/7f0FVe3V_o.png?raw=true)
 
 
 ### Link to source: 
