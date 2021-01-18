@@ -1,6 +1,6 @@
 <h1 align="center">Subtract the Product and Sum of Digits of an Integer</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Maths/subtract_the_product_and_sum_of_digits_of_an_integer.png?raw=true)
+![alt text](https://images2.imgbox.com/e0/9d/5JudMbsL_o.png?raw=true)
 
 
 ### Link to source: 
