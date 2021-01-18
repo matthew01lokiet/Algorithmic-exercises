@@ -1,6 +1,6 @@
 <h1 align="center">Identify Smith Numbers</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Maths/identify_smith_numbers.png?raw=true)
+![alt text](https://images2.imgbox.com/56/02/7uiNyDvz_o.png?raw=true)
 
 
 ### Link to source: 
