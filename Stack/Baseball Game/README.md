@@ -1,6 +1,6 @@
 <h1 align="center">Baseball Game</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Stack/baseball_game.png?raw=true)
+![alt text](https://images2.imgbox.com/89/22/95MrCzuw_o.png?raw=true)
 
 ### Link to source: 
 - <a href="https://leetcode.com/problems/baseball-game/">Leetcode - Baseball Game</a>
