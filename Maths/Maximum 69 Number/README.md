@@ -1,6 +1,6 @@
 <h1 align="center">Maximum 69 Number</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Maths/maximum_69_number.png?raw=true)
+![alt text](https://images2.imgbox.com/86/a6/aSsfU5ci_o.png?)
 
 
 ### Link to source: 
