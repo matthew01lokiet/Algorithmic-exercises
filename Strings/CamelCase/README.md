@@ -1,6 +1,6 @@
 <h1 align="center">CamelCase</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/camel_case.png?raw=true)
+![alt text](https://images2.imgbox.com/4d/b2/XhPRx8Qm_o.png?raw=true)
 
 
 ### Link to source: 
