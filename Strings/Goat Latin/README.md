@@ -1,6 +1,6 @@
 <h1 align="center">Goat Latin</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Strings/goat_latin.png?raw=true)
+![alt text](https://images2.imgbox.com/fc/90/PxS2HnsR_o.png?raw=true)
 
 
 ### Link to source: 
