@@ -1,6 +1,6 @@
 <h1 align="center">Defuse the Bomb</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/defuse_the_bomb.png?raw=true)
+![alt text](https://images2.imgbox.com/23/b6/REqqLKvy_o.png?raw=true)
 
 
 ### Link to source: 
