@@ -1,6 +1,6 @@
 <h1 align="center">Available Captures for Rook</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/available_captures_for_rook.png?raw=true)
+![alt text](https://images2.imgbox.com/72/3d/PT5ZSgs6_o.png?raw=true)
 
 
 ### Link to source: 
