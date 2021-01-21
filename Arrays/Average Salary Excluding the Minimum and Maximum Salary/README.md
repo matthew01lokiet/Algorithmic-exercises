@@ -1,6 +1,6 @@
 <h1 align="center">Average Salary Excluding the Minimum and Maximum Salary</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/average_salary_excluding_the_minimum_and_maximum_salary.png?raw=true)
+![alt text](https://images2.imgbox.com/b1/ed/ECImZLeA_o.png?raw=true)
 
 
 ### Link to source: 
