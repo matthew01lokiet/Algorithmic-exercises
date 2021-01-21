@@ -1,6 +1,6 @@
 <h1 align="center">Maximum Product of Two Elements in an Array</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/maximum_product_of_two_elements_in_an_array.png?raw=true)
+![alt text](https://images2.imgbox.com/d2/59/9n7K1Yqf_o.png?raw=true)
 
 
 ### Link to source: 
