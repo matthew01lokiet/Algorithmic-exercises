@@ -1,6 +1,6 @@
 <h1 align="center">Array Partition I</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/array_partition_I.png?raw=true)
+![alt text](https://images2.imgbox.com/8e/61/1FBjHHiG_o.png?raw=true)
 
 ### Link to source: 
 - <a href="https://leetcode.com/problems/array-partition-i/">Leetcode - Array Partition I</a>
