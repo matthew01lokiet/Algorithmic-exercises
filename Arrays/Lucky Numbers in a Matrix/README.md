@@ -1,6 +1,6 @@
 <h1 align="center">Lucky Numbers in a Matrix</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/lucky_numbers_in_a_matrix.png?raw=true)
+![alt text](https://images2.imgbox.com/95/04/5MV3Xalv_o.png?raw=true)
 
 
 ### Link to source: 
