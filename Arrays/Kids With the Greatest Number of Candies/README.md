@@ -1,6 +1,6 @@
 <h1 align="center">Kids With the Greatest Number of Candies</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/kids_with_the_greatest_number_of_candies.png?raw=true)
+![alt text](https://images2.imgbox.com/33/f0/twch07gy_o.png?raw=true)
 
 
 ### Link to source: 
