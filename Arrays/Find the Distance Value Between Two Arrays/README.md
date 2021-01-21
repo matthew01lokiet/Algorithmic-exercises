@@ -1,6 +1,6 @@
 <h1 align="center">Find the Distance Value Between Two Arrays</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/find_the_distance_value_between_two_arrays.png?raw=true)
+![alt text](https://images2.imgbox.com/c2/fb/IT1PMh2j_o.png?raw=true)
 
 
 ### Link to source: 
