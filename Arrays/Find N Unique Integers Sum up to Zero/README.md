@@ -1,6 +1,6 @@
 <h1 align="center">Find N Unique Integers Sum up to Zero</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/find_n_unique_integers_sum_up_to_zero.png?raw=true)
+![alt text](https://images2.imgbox.com/30/df/yXm7zjOC_o.png?raw=true)
 
 
 ### Link to source: 
