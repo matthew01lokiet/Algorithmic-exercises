@@ -1,6 +1,6 @@
 <h1 align="center">Minimum Absolute Difference</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/minimum_absolute_difference.png?raw=true)
+![alt text](https://images2.imgbox.com/1a/66/fG7DOqv7_o.png?raw=true)
 
 
 ### Link to source: 
