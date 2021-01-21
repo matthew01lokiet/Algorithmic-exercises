@@ -1,6 +1,6 @@
 <h1 align="center">Toeplitz Matrix</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/toeplitz_matrix.png?raw=true)
+![alt text](https://images2.imgbox.com/ce/bd/01IQWhJA_o.png?raw=true)
 
 ### Link to source: 
 - <a href="https://leetcode.com/problems/toeplitz-matrix/">Leetcode - Toeplitz Matrix</a>
