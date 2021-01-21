@@ -1,6 +1,6 @@
 <h1 align="center">Flipping an Image</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/flipping_an_image.png?raw=true)
+![alt text](https://images2.imgbox.com/42/6a/bIl9gafG_o.png?raw=true)
 
 
 ### Link to source: 
