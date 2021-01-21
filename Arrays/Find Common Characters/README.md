@@ -1,6 +1,6 @@
 <h1 align="center">Find Common Characters</h1>
 
-![alt text](https://github.com/matthew01lokiet/Algorithmic-exercises/blob/main/z_description_images/Arrays/find_common_characters.png?raw=true)
+![alt text](https://images2.imgbox.com/69/84/7ov8EvTR_o.png?raw=true)
 
 
 
