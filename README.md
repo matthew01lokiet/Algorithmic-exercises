@@ -1,4 +1,4 @@
-![alt text](https://images2.imgbox.com/3c/e1/UQEuN9AO_o.png?raw=true "Header")
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/MainRepos/UQEuN9AO_o.png? "Header")
 ## 📖 Short description:
 `Algorithms` and `Data Structure` exercises solutions implemented in a `Java` programming language by myself.
 ## 📁 Repository structure:
