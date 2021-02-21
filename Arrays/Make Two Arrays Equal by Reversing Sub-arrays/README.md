@@ -1,6 +1,6 @@
 <h1 align="center">Make Two Arrays Equal by Reversing Sub-arrays</h1>
 
-![alt text](https://images2.imgbox.com/0a/15/6DHIu5rK_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Arrays/6DHIu5rK_o.png)
 
 
 ### Link to source: 
