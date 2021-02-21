@@ -1,6 +1,6 @@
 <h1 align="center">Average Salary Excluding the Minimum and Maximum Salary</h1>
 
-![alt text](https://images2.imgbox.com/b1/ed/ECImZLeA_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Arrays/ECImZLeA_o.png)
 
 
 ### Link to source: 
