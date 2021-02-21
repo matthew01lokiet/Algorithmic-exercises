@@ -1,6 +1,6 @@
 <h1 align="center">Find Common Characters</h1>
 
-![alt text](https://images2.imgbox.com/69/84/7ov8EvTR_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Arrays/7ov8EvTR_o.png)
 
 
 
