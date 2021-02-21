@@ -1,6 +1,6 @@
 <h1 align="center">Design HashSet</h1>
 
-![alt text](https://images2.imgbox.com/7f/24/4zixJRml_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/HashMap/4zixJRml_o.png)
 
 ### Link to source: 
 - <a href="https://leetcode.com/problems/design-hashset/">Leetcode - Design HashSet</a>
