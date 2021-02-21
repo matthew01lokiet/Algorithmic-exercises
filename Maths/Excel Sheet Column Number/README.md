@@ -1,6 +1,6 @@
 <h1 align="center">Excel Sheet Column Number</h1>
 
-![alt text](https://images2.imgbox.com/0c/f1/17vyrR6b_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Maths/17vyrR6b_o.png)
 
 
 ### Link to source: 
