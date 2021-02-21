@@ -1,6 +1,6 @@
 <h1 align="center">Palindrome Number</h1>
 
-![alt text](https://images2.imgbox.com/2e/a1/SJE9b0vY_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Maths/SJE9b0vY_o.png)
 
 ### Link to source: 
 - <a href="https://leetcode.com/problems/palindrome-number/">Leetcode - Palindrome Number</a>
