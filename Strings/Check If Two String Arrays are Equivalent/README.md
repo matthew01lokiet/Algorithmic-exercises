@@ -1,6 +1,6 @@
 <h1 align="center">Check If Two String Arrays are Equivalent</h1>
 
-![alt text](https://images2.imgbox.com/f0/7c/25DegcmS_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/String/25DegcmS_o.png)
 
 
 ### Link to source: 
