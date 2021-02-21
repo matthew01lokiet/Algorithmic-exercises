@@ -1,6 +1,6 @@
 <h1 align="center">Add Digits</h1>
 
-![alt text](https://images2.imgbox.com/6e/ca/ovuoi4nt_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Maths/ovuoi4nt_o.png)
 
 ### Link to source: 
 - <a href="https://leetcode.com/problems/add-digits/">Leetcode - Add Digits</a>
