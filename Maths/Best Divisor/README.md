@@ -1,6 +1,6 @@
 <h1 align="center">Best Divisor</h1>
 
-![alt text](https://images2.imgbox.com/40/69/vwbHUoOI_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Maths/vwbHUoOI_o.png)
 
 
 ### Link to source: 
