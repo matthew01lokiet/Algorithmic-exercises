@@ -1,6 +1,6 @@
 <h1 align="center">Minimum Operations to Make Array Equal</h1>
 
-![alt text](https://images2.imgbox.com/b1/f0/FtgJ38Ct_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Maths/FtgJ38Ct_o.png)
 
 
 ### Link to source: 
