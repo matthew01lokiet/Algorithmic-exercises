@@ -1,6 +1,6 @@
 <h1 align="center">Matrix Diagonal Sum</h1>
 
-![alt text](https://images2.imgbox.com/4d/6c/Bbb0mfIU_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Arrays/Bbb0mfIU_o.png)
 
 
 ### Link to source: 
