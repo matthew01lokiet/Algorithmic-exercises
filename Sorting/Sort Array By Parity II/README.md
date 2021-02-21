@@ -1,6 +1,6 @@
 <h1 align="center">Sort Array By Parity II</h1>
 
-![alt text](https://images2.imgbox.com/a4/55/yiDGMBq9_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Sorting/yiDGMBq9_o.png)
 
 ### Link to source: 
 - <a href="https://leetcode.com/problems/sort-array-by-parity-ii/">Leetcode - Sort Array By Parity II</a>
