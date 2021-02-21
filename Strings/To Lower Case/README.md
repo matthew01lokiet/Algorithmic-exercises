@@ -1,6 +1,6 @@
 <h1 align="center">To Lower Case</h1>
 
-![alt text](https://images2.imgbox.com/63/f5/ECZDwElR_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/String/ECZDwElR_o.png)
 
 
 ### Link to source: 
