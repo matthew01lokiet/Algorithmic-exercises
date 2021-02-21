@@ -1,6 +1,6 @@
 <h1 align="center">Count the Number of Consistent Strings</h1>
 
-![alt text](https://images2.imgbox.com/ec/79/qbR5Sagx_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/String/qbR5Sagx_o.png)
 
 
 ### Link to source: 
