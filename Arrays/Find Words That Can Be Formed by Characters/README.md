@@ -1,6 +1,6 @@
 <h1 align="center">Find Words That Can Be Formed by Characters</h1>
 
-![alt text](https://images2.imgbox.com/f1/6f/QyROE2C9_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Arrays/QyROE2C9_o.png)
 
 
 ### Link to source: 
