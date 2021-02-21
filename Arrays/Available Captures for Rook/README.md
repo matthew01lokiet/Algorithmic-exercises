@@ -1,6 +1,6 @@
 <h1 align="center">Available Captures for Rook</h1>
 
-![alt text](https://images2.imgbox.com/72/3d/PT5ZSgs6_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Arrays/PT5ZSgs6_o.png)
 
 
 ### Link to source: 
