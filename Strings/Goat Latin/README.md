@@ -1,6 +1,6 @@
 <h1 align="center">Goat Latin</h1>
 
-![alt text](https://images2.imgbox.com/fc/90/PxS2HnsR_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/String/PxS2HnsR_o.png)
 
 
 ### Link to source: 
