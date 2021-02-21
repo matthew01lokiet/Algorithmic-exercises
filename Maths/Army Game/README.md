@@ -1,6 +1,6 @@
 <h1 align="center">Army Game</h1>
 
-![alt text](https://images2.imgbox.com/e8/a5/Mzyw2wWX_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Maths/Mzyw2wWX_o.png)
 
 
 ### Link to source: 
