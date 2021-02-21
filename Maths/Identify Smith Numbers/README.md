@@ -1,6 +1,6 @@
 <h1 align="center">Identify Smith Numbers</h1>
 
-![alt text](https://images2.imgbox.com/56/02/7uiNyDvz_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Maths/7uiNyDvz_o.png)
 
 
 ### Link to source: 
