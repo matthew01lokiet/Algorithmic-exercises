@@ -1,6 +1,6 @@
 <h1 align="center">Halloween party</h1>
 
-![alt text](https://images2.imgbox.com/56/64/2Gifw9nr_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Maths/2Gifw9nr_o.png)
 
 
 ### Link to source: 
