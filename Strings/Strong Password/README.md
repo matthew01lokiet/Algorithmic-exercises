@@ -1,6 +1,6 @@
 <h1 align="center">Strong Password</h1>
 
-![alt text](https://images2.imgbox.com/09/ec/09jMcHMw_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/String/09jMcHMw_o.png)
 
 
 ### Link to source: 
