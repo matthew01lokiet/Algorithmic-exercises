@@ -1,6 +1,6 @@
 <h1 align="center">Beautiful Binary String</h1>
 
-![alt text](https://images2.imgbox.com/db/48/D9cwJfUh_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/String/D9cwJfUh_o.png)
 
 
 ### Link to source: 
