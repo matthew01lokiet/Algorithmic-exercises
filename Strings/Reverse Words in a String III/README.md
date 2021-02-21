@@ -1,6 +1,6 @@
 <h1 align="center">Reverse Words in a String III</h1>
 
-![alt text](https://images2.imgbox.com/17/ed/A7UUBnoI_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/String/A7UUBnoI_o.png)
 
 
 ### Link to source: 
