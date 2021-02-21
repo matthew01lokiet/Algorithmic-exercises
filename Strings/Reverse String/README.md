@@ -1,6 +1,6 @@
 <h1 align="center">Reverse String</h1>
 
-![alt text](https://images2.imgbox.com/1d/30/ukBEN4Y3_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/String/ukBEN4Y3_o.png)
 
 
 ### Link to source: 
