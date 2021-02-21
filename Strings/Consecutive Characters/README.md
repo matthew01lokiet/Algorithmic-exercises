@@ -1,6 +1,6 @@
 <h1 align="center">Consecutive Characters</h1>
 
-![alt text](https://images2.imgbox.com/7f/ea/z9kEs6GC_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/String/z9kEs6GC_o.png)
 
 
 ### Link to source: 
