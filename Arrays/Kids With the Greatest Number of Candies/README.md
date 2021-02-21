@@ -1,6 +1,6 @@
 <h1 align="center">Kids With the Greatest Number of Candies</h1>
 
-![alt text](https://images2.imgbox.com/33/f0/twch07gy_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Arrays/twch07gy_o.png)
 
 
 ### Link to source: 
