@@ -1,6 +1,6 @@
 <h1 align="center">Minimum Cost to Move Chips to The Same Position</h1>
 
-![alt text](https://images2.imgbox.com/e7/92/fgblQgUE_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Maths/fgblQgUE_o.png)
 
 
 ### Link to source: 
