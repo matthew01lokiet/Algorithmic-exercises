@@ -1,6 +1,6 @@
 <h1 align="center">Generate a String With Characters That Have Odd Counts</h1>
 
-![alt text](https://images2.imgbox.com/bf/e8/OqtqHc2d_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/String/OqtqHc2d_o.png)
 
 
 ### Link to source: 
