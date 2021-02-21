@@ -1,6 +1,6 @@
 <h1 align="center">Maximum 69 Number</h1>
 
-![alt text](https://images2.imgbox.com/86/a6/aSsfU5ci_o.png?)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Maths/aSsfU5ci_o.png)
 
 
 ### Link to source: 
