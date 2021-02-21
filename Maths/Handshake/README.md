@@ -1,6 +1,6 @@
 <h1 align="center">Handshake</h1>
 
-![alt text](https://images2.imgbox.com/bc/bd/mjSnDslE_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Maths/mjSnDslE_o.png)
 
 
 ### Link to source: 
