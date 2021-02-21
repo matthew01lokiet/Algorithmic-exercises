@@ -1,6 +1,6 @@
 <h1 align="center">Maximum Product of Two Elements in an Array</h1>
 
-![alt text](https://images2.imgbox.com/d2/59/9n7K1Yqf_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/Arrays/9n7K1Yqf_o.png)
 
 
 ### Link to source: 
