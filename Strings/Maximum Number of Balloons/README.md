@@ -1,6 +1,6 @@
 <h1 align="center">Maximum Number of Balloons</h1>
 
-![alt text](https://images2.imgbox.com/d4/59/7f0FVe3V_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Algs/String/7f0FVe3V_o.png)
 
 
 ### Link to source: 
